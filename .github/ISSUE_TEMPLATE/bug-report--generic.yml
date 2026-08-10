@@ -1,7 +1,7 @@
 name: "Bug report (generic)"
 description: "Create a report to help us improve"
-title: "[Bug]: "
-labels: []
+title: ""
+labels: ["bug"]
 assignees: []
 body:
   - type: markdown
@@ -17,7 +17,7 @@ body:
 
         We encourage contributors to follow the [GNU Kind Communications Guidelines (GNU KCG)](https://gnu.support/philosophy/GNU-Kind-Communications-Guidelines.html)
 
-- type: checkboxes
+  - type: checkboxes
     id: tool_selection
     attributes:
       label: "Are you using \"AM\" or \"AppMan\"?"
