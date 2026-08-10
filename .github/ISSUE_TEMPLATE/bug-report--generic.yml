@@ -22,6 +22,7 @@ body:
     attributes:
       label: "Are you using \"AM\" or \"AppMan\"?"
       options:
+        - ""
         - "AM"
         - "AppMan"
     validations:
