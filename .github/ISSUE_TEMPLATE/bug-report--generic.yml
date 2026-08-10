@@ -17,14 +17,13 @@ body:
 
         We encourage contributors to follow the [GNU Kind Communications Guidelines (GNU KCG)](https://gnu.support/philosophy/GNU-Kind-Communications-Guidelines.html)
 
-  - type: dropdown
+- type: checkboxes
     id: tool_selection
     attributes:
       label: "Are you using \"AM\" or \"AppMan\"?"
       options:
-        - ""
-        - "AM"
-        - "AppMan"
+        - label: "AM"
+        - label: "AppMan"
     validations:
       required: true
 
