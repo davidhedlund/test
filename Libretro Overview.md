@@ -1,3 +1,10 @@
+* [Cores](#cores)
+   - [Core info and document files](#core-info-and-document-files)
+   - [Core OS and architecture support](#core-os-and-architecture-support)
+* [Files without cores](#files-without-cores)
+   - [Info files without cores](#info-files-without-cores)
+   - [Document files without cores](#document-files-without-cores)
+
 # Cores
 
 ## Core info and document files
