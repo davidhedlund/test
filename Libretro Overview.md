@@ -1465,7 +1465,7 @@
 
 ### PlayStation
 
-| Core | PlayStation 2 | PlayStation PSP |
+| Core | PlayStation 2 | PlayStation Portable |
 | --- | --- | --- |
 | 2048 | [✅ Yes](https://buildbot.libretro.com/nightly/playstation/ps2/latest/2048_libretro_ps2.elf.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/playstation/psp/latest/2048_libretro_psp.PBP.zip) |
 | 3dengine | ❌ No | ❌ No |
