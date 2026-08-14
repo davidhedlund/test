@@ -260,7 +260,7 @@
 
 ### Android
 
-| Core | Android arm64-v8a | Android armeabi | Android armeabi-v7a | Android x86 | Android x86_64 |
+| Core | arm64-v8a | armeabi | armeabi-v7a | x86 | x86_64 |
 | --- | --- | --- | --- | --- | --- |
 | 2048 | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/2048_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/2048_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/2048_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/2048_libretro_android.so.zip) |
 | 3dengine | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/3dengine_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/3dengine_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/3dengine_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/3dengine_libretro_android.so.zip) |
@@ -501,7 +501,7 @@
 
 ### Apple
 
-| Core | Apple iOS | Apple iOS 9 | Apple iOS arm64 | Apple OSX arm64 | Apple OSX ppc | Apple OSX universal | Apple OSX x86 | Apple OSX x86_64 | Apple tvOS arm64 |
+| Core | iOS | iOS 9 | iOS arm64 | OSX arm64 | OSX ppc | OSX universal | OSX x86 | OSX x86_64 | tvOS arm64 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2048 | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios/latest/2048_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios9/latest/2048_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/2048_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/2048_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/ppc/latest/2048_libretro.dylib.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/2048_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/2048_libretro_tvos.dylib.zip) |
 | 3dengine | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
@@ -742,7 +742,7 @@
 
 ### Dingux
 
-| Core | Dingux mips32 | Dingux mips32 odbeta | Dingux miyoo arm32 | Dingux retrofw mips32 | Dingux rs90 mips32 odbeta |
+| Core | mips32 | mips32 odbeta | miyoo arm32 | retrofw mips32 | rs90 mips32 odbeta |
 | --- | --- | --- | --- | --- | --- |
 | 2048 | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/mips32/latest/2048_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/mips32-odbeta/latest/2048_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/miyoo-arm32/latest/2048_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/retrofw-mips32/latest/2048_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/rs90-mips32-odbeta/latest/2048_libretro.so.zip) |
 | 3dengine | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
@@ -983,7 +983,7 @@
 
 ### Linux
 
-| Core | Linux aarch64 | Linux armhf | Linux armv7 neon hf | Linux x86 | Linux x86_64 |
+| Core | aarch64 | armhf | armv7 neon hf | x86 | x86_64 |
 | --- | --- | --- | --- | --- | --- |
 | 2048 | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/2048_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armhf/latest/2048_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armv7-neon-hf/latest/2048_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/2048_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/2048_libretro.so.zip) |
 | 3dengine | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/3dengine_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/3dengine_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/3dengine_libretro.so.zip) |
@@ -1224,7 +1224,7 @@
 
 ### Nintendo
 
-| Core | Nintendo 3DS (3dsx) | Nintendo 3DS (cia) | Nintendo GameCube | Nintendo Switch (libnx) | Nintendo Wii | Nintendo Wii U |
+| Core | 3DS (3dsx) | 3DS (cia) | GameCube | Switch (libnx) | Wii | Wii U |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2048 | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/3dsx/2048_libretro.3dsx.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/cia/2048_libretro.cia.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/ngc/latest/2048_libretro_ngc.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/switch/libnx/latest/2048_libretro_libnx.nro.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wii/latest/2048_libretro_wii.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wiiu/latest/2048_libretro.rpx.zip) |
 | 3dengine | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
@@ -1465,7 +1465,7 @@
 
 ### PlayStation
 
-| Core | PlayStation 2 | PlayStation Portable |
+| Core | PS2 | PSP |
 | --- | --- | --- |
 | 2048 | [✅ Yes](https://buildbot.libretro.com/nightly/playstation/ps2/latest/2048_libretro_ps2.elf.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/playstation/psp/latest/2048_libretro_psp.PBP.zip) |
 | 3dengine | ❌ No | ❌ No |
@@ -1706,7 +1706,7 @@
 
 ### WebOS
 
-| Core | WebOS armv7a |
+| Core | armv7a |
 | --- | --- |
 | 2048 | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/2048_libretro.so.zip) |
 | 3dengine | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/3dengine_libretro.so.zip) |
@@ -1947,7 +1947,7 @@
 
 ### Windows
 
-| Core | Windows x86 | Windows x86_64 |
+| Core | x86 | x86_64 |
 | --- | --- | --- |
 | 2048 | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/2048_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/2048_libretro.dll.zip) |
 | 3dengine | ❌ No | ❌ No |
